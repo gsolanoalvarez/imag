@@ -1,18 +1,11 @@
-[
-    {
-        "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/5/5c/Dragon_Ball_GT_Personajes_%28PF%29.png/revision/latest/scale-to-width-down/500?cb=20130826234017&path-prefix=es",
-        "linkUrl": "go:eventos",
-        "description": "Imagen 1"
-    },
-    {
-        "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/5/5c/Dragon_Ball_GT_Personajes_%28PF%29.png/revision/latest/scale-to-width-down/500?cb=20130826234017&path-prefix=es",
-        "linkUrl": "go:eventos",
-        "description": "Imagen 2"
-    },
-    {
-        "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/5/5c/Dragon_Ball_GT_Personajes_%28PF%29.png/revision/latest/scale-to-width-down/500?cb=20130826234017&path-prefix=es",
-        "linkUrl": "go:eventos",
-        "description": "Imagen 3"
-    }
-]
+{
+    "images": [
+        "https://link-to-your-image1.jpg",
+        "https://link-to-your-image2.jpg",
+        "https://link-to-your-image3.jpg",
+        "https://link-to-your-image4.jpg",
+        "https://link-to-your-image5.jpg",
+        "https://link-to-your-image6.jpg"
+    ]
+}
 
